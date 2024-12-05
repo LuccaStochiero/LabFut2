@@ -1,2 +1,4 @@
 ^FutLab\.Rproj$
 ^\.Rproj\.user$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
